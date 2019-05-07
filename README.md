@@ -52,4 +52,4 @@ Todo List:
  
 More Information:
 
-Created by Johnathan Martin of FitTechHosting.com
+Created by Ecrypty.com
